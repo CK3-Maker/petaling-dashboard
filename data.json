@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "savedAt": "2026-05-25T04:00:27.363Z",
+  "savedAt": "2026-05-25T04:34:06.907Z",
   "note": "Petaling residential pipeline - editable dashboard state"
  },
  "customColumns": [],
@@ -102,11 +102,15 @@
      "soldPercent": 0
     }
    ],
-   "location": "",
+   "location": "Sri Petaling",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2030"
+   "completionYear": "2030",
+   "_coord": {
+    "lat": 3.0737347112963866,
+    "lng": 101.70148016290855
+   }
   },
   {
    "id": "31070-1",
@@ -262,11 +266,15 @@
      "soldPercent": 54.1
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.060546,
+    "lng": 101.595669
+   }
   },
   {
    "id": "30863-1",
@@ -304,11 +312,15 @@
      "soldPercent": 54.8
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.098229136526394,
+    "lng": 101.4936375284958
+   }
   },
   {
    "id": "30857-1",
@@ -376,11 +388,15 @@
      "soldPercent": 0
     }
    ],
-   "location": "",
+   "location": "Seri Kembangan",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.014941532458927,
+    "lng": 101.69552529973541
+   }
   },
   {
    "id": "30805-1",
@@ -433,11 +449,15 @@
      "soldPercent": 44.2
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.0028972965263923,
+    "lng": 101.60481788938321
+   }
   },
   {
    "id": "30792-1",
@@ -645,11 +665,15 @@
      "soldPercent": 56.8
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.1060777261824426,
+    "lng": 101.46526534401
+   }
   },
   {
    "id": "30704-1",
@@ -764,11 +788,15 @@
      "soldPercent": 58
     }
    ],
-   "location": "",
+   "location": "Seksyen 13, Shah Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.0851834628891206,
+    "lng": 101.55280177971724
+   }
   },
   {
    "id": "30670-1",
@@ -1488,11 +1516,15 @@
      "soldPercent": 0
     }
    ],
-   "location": "",
+   "location": "Kwasa Damansara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.177246,
+    "lng": 101.560053
+   }
   },
   {
    "id": "30508-1",
@@ -1651,11 +1683,15 @@
      "soldPercent": 16.7
     }
    ],
-   "location": "",
+   "location": "Kwasa Damansara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.176113318217988,
+    "lng": 101.56000219449257
+   }
   },
   {
    "id": "30506-1",
@@ -1869,11 +1905,15 @@
      "soldPercent": 95.6
     }
    ],
-   "location": "",
+   "location": "Kwasa Damansara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.1732203392262632,
+    "lng": 101.56328302455918
+   }
   },
   {
    "id": "30497-1",
@@ -1968,11 +2008,15 @@
      "soldPercent": 4.8
     }
    ],
-   "location": "",
+   "location": "Seri Kembangan",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0143221517705894,
+    "lng": 101.6929925666524
+   }
   },
   {
    "id": "30474-1",
@@ -2010,11 +2054,15 @@
      "soldPercent": 94.5
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 2.986439726391092,
+    "lng": 101.60723093761865
+   }
   },
   {
    "id": "30456-1",
@@ -2144,11 +2192,15 @@
      "soldPercent": 97.6
     }
    ],
-   "location": "",
+   "location": "Seksyen 13, Shah Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.087900576957413,
+    "lng": 101.54901524064888
+   }
   },
   {
    "id": "30324-2",
@@ -2292,11 +2344,15 @@
      "soldPercent": 99.3
     }
    ],
-   "location": "",
+   "location": "Kayangan Heights",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1299449366759453,
+    "lng": 101.5078457297836
+   }
   },
   {
    "id": "30262-1",
@@ -2334,11 +2390,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0830760614533275,
+    "lng": 101.58707190104903
+   }
   },
   {
    "id": "30260-1",
@@ -2376,11 +2436,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Section U1, Shah Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0895730398598986,
+    "lng": 101.55315910509616
+   }
   },
   {
    "id": "30254-1",
@@ -2663,11 +2727,15 @@
      "soldPercent": 91.1
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.048320214381614,
+    "lng": 101.64490317504882
+   }
   },
   {
    "id": "30179-1",
@@ -2747,11 +2815,15 @@
      "soldPercent": 23.7
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.0277916636126077,
+    "lng": 101.57940164453466
+   }
   },
   {
    "id": "30162-1",
@@ -2789,11 +2861,15 @@
      "soldPercent": 64.6
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0285004713669736,
+    "lng": 101.5776369996819
+   }
   },
   {
    "id": "30161-2",
@@ -3201,11 +3277,15 @@
      "soldPercent": 91.3
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.073864109982643,
+    "lng": 101.56703445106355
+   }
   },
   {
    "id": "20164-3",
@@ -3427,11 +3507,15 @@
      "soldPercent": 14.4
     }
    ],
-   "location": "",
+   "location": "Damansara Perdana",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.173424,
+    "lng": 101.615902
+   }
   },
   {
    "id": "20011-4",
@@ -4060,11 +4144,15 @@
      "soldPercent": 87.6
     }
    ],
-   "location": "",
+   "location": "Seksyen 13, Shah Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.087907546502967,
+    "lng": 101.54919607403929
+   }
   },
   {
    "id": "13798-1",
@@ -4317,7 +4405,11 @@
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1797711529631965,
+    "lng": 101.5044186075519
+   }
   },
   {
    "id": "13017-46",
@@ -4837,11 +4929,15 @@
      "soldPercent": 79.3
     }
    ],
-   "location": "",
+   "location": "Damansara Perdana",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1793173064030733,
+    "lng": 101.61820003135607
+   }
   },
   {
    "id": "12186-1",
@@ -5936,11 +6032,15 @@
      "soldPercent": 99.3
     }
    ],
-   "location": "",
+   "location": "Taman Medan, PJ",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2026"
+   "completionYear": "2026",
+   "_coord": {
+    "lat": 3.0765751287371557,
+    "lng": 101.6377837199694
+   }
   },
   {
    "id": "9444-8",
@@ -7571,11 +7671,15 @@
      "soldPercent": 82.7
     }
    ],
-   "location": "",
+   "location": "Bandar Sri Damansara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1986505706091273,
+    "lng": 101.61255963407422
+   }
   },
   {
    "id": "3981-40",
@@ -7689,11 +7793,15 @@
      "soldPercent": 31.8
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.039414,
+    "lng": 101.616028
+   }
   },
   {
    "id": "3927-166",
@@ -7788,11 +7896,15 @@
      "soldPercent": 91.9
     }
    ],
-   "location": "",
+   "location": "Putra Heights",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 2.9907303442945246,
+    "lng": 101.57236508840393
+   }
   },
   {
    "id": "3927-155",
