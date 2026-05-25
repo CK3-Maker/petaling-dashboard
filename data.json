@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "savedAt": "2026-05-25T02:52:06.272Z",
+  "savedAt": "2026-05-25T03:20:01.020Z",
   "note": "Petaling residential pipeline - editable dashboard state"
  },
  "customColumns": [],
@@ -491,11 +491,15 @@
      "soldPercent": 0
     }
    ],
-   "location": "",
+   "location": "Seri Kembangan",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.038877648594237,
+    "lng": 101.69377624373858
+   }
   },
   {
    "id": "30790-1",
@@ -1041,11 +1045,15 @@
      "soldPercent": 94.5
     }
    ],
-   "location": "",
+   "location": "Kwasa Damanara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1820528390713445,
+    "lng": 101.57519201490129
+   }
   },
   {
    "id": "30608-1",
@@ -2028,11 +2036,15 @@
      "soldPercent": 18.8
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.017202113444884,
+    "lng": 101.60567705939013
+   }
   },
   {
    "id": "30367-1",
@@ -2070,11 +2082,15 @@
      "soldPercent": 22.9
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.0779266555262494,
+    "lng": 101.56809278603016
+   }
   },
   {
    "id": "30339-1",
@@ -2444,11 +2460,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Kayu Ara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.132519386750792,
+    "lng": 101.61049441836438
+   }
   },
   {
    "id": "30198-3",
@@ -2936,11 +2956,15 @@
      "soldPercent": 24
     }
    ],
-   "location": "",
+   "location": "Seksyen 15, Shah Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.063952409902313,
+    "lng": 101.52195725272969
+   }
   },
   {
    "id": "30064-1",
@@ -3405,11 +3429,15 @@
      "soldPercent": 99
     }
    ],
-   "location": "",
+   "location": "Damansara Perdana",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1731481090868345,
+    "lng": 101.61408975026
+   }
   },
   {
    "id": "19781-1",
@@ -3565,11 +3593,15 @@
      "soldPercent": 83.9
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.16183387652837,
+    "lng": 101.52649753406352
+   }
   },
   {
    "id": "19287-3",
@@ -3854,11 +3886,15 @@
      "soldPercent": 77
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1162346634731466,
+    "lng": 101.45335533404771
+   }
   },
   {
    "id": "14466-2",
@@ -4056,11 +4092,15 @@
      "soldPercent": 0.7
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.196555556092097,
+    "lng": 101.50290603694444
+   }
   },
   {
    "id": "13017-49",
@@ -4114,11 +4154,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1661132313151423,
+    "lng": 101.50014230242346
+   }
   },
   {
    "id": "13017-48",
@@ -4156,11 +4200,15 @@
      "soldPercent": 86.2
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.1652003659365953,
+    "lng": 101.50000781522134
+   }
   },
   {
    "id": "13017-47",
@@ -4213,7 +4261,7 @@
      "soldPercent": 40
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
@@ -4255,11 +4303,15 @@
      "soldPercent": 99
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.2037012416681376,
+    "lng": 101.50370298492801
+   }
   },
   {
    "id": "13017-45",
@@ -4343,11 +4395,15 @@
      "soldPercent": 95.3
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1657763725427697,
+    "lng": 101.50331439691503
+   }
   },
   {
    "id": "13017-44",
@@ -4460,11 +4516,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.2034661829606867,
+    "lng": 101.50488975168318
+   }
   },
   {
    "id": "13017-43",
@@ -4622,11 +4682,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Elmina",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1665341488174423,
+    "lng": 101.50301431213605
+   }
   },
   {
    "id": "12238-5",
@@ -5758,11 +5822,15 @@
      "soldPercent": 100
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.1068272953580407,
+    "lng": 101.48305188837193
+   }
   },
   {
    "id": "9507-4",
@@ -6194,11 +6262,15 @@
      "soldPercent": 11.8
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.0990767290524732,
+    "lng": 101.46678920402906
+   }
   },
   {
    "id": "9062-129",
@@ -6437,11 +6509,15 @@
      "soldPercent": null
     }
    ],
-   "location": "",
+   "location": "Setia Alam",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.094982273573237,
+    "lng": 101.48495050667849
+   }
   },
   {
    "id": "8447-9",
@@ -7436,11 +7512,15 @@
      "soldPercent": 86.5
     }
    ],
-   "location": "",
+   "location": "Bandar Sri Damansara",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.197975067993734,
+    "lng": 101.61299947941481
+   }
   },
   {
    "id": "2608-6",
