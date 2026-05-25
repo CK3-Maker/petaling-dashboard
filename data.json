@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "savedAt": "2026-05-25T04:34:06.907Z",
+  "savedAt": "2026-05-25T04:40:11.834Z",
   "note": "Petaling residential pipeline - editable dashboard state"
  },
  "customColumns": [],
@@ -937,11 +937,15 @@
      "soldPercent": 34.9
     }
    ],
-   "location": "",
+   "location": "Kampung Gandhi, PJ",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.0779319424721834,
+    "lng": 101.62354117877358
+   }
   },
   {
    "id": "30619-1",
@@ -1024,11 +1028,15 @@
      "soldPercent": 45.2
     }
    ],
-   "location": "",
+   "location": "Saujana",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.1050024565605785,
+    "lng": 101.56896974563612
+   }
   },
   {
    "id": "30608-2",
@@ -1207,7 +1215,11 @@
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1080263008774587,
+    "lng": 101.59021630827672
+   }
   },
   {
    "id": "30552-2",
@@ -5546,11 +5558,15 @@
      "soldPercent": 33.9
     }
    ],
-   "location": "",
+   "location": "Puchong",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.046309,
+    "lng": 101.643759
+   }
   },
   {
    "id": "10674-2",
@@ -8173,11 +8189,15 @@
      "soldPercent": 98.5
     }
    ],
-   "location": "",
+   "location": "Subang Jaya",
    "area": null,
    "isNew": false,
    "custom": {},
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.0559164376491132,
+    "lng": 101.59326301699775
+   }
   }
  ]
 }
