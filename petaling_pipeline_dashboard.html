@@ -605,7 +605,10 @@ function renderBody(){
       data-id="${p.id}">${cells}</tr>`;
   }).join('');
   if(!editMode){
-    $$('#tbody tr[data-id]').forEach(tr=>tr.onclick=()=>openModal(tr.dataset.id));
+    $$('#tbody tr[data-id]').forEach(tr=>tr.onclick=()=>{
+      flyToProject(tr.dataset.id);
+      openModal(tr.dataset.id);
+    });
   }else{
     $$('#tbody .ecell').forEach(inp=>{
       inp.onclick=e=>e.stopPropagation();
@@ -942,6 +945,18 @@ function refreshMarkers(){
   });
   const shown=Object.keys(markers).map(id=>coords[id]);
   if(shown.length)map.fitBounds(shown.map(c=>[c.lat,c.lng]),{padding:[40,40],maxZoom:14});
+}
+function flyToProject(id){
+  if(!map)return;
+  const c=coords[id];
+  if(!c)return;                    // no coordinate — leave map as-is
+  const p=STATE.projects.find(x=>x.id===id);
+  // if the pin is hidden by the region filter, the marker won't exist
+  let mk=markers[id];
+  map.setView([c.lat,c.lng],16,{animate:true});
+  if(mk&&mk.openTooltip){
+    setTimeout(()=>{try{mk.openTooltip();}catch(e){}},350);
+  }
 }
 function updateCoordUI(){
   $('#cpStat').textContent=`${Object.keys(coords).length} of ${STATE.projects.length} placed`;
