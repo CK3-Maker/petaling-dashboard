@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 2,
-  "savedAt": "2026-05-26T02:14:37.448Z",
+  "savedAt": "2026-05-27T08:04:50.200Z",
   "note": "Petaling + KL residential pipeline - merged editable dashboard state"
  },
  "customColumns": [],
@@ -8962,12 +8962,16 @@
      "soldPercent": 95.6
     }
    ],
-   "location": "",
+   "location": "Old Klang Road",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.092596718104203,
+    "lng": 101.6741621529275
+   }
   },
   {
    "id": "30821-1",
@@ -9110,12 +9114,16 @@
      "soldPercent": 99.3
     }
    ],
-   "location": "",
+   "location": "Bukit Bintang",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.143837461983122,
+    "lng": 101.71170163919987
+   }
   },
   {
    "id": "30777-1",
@@ -9389,12 +9397,16 @@
      "soldPercent": 99.7
     }
    ],
-   "location": "",
+   "location": "Bukit Jalil",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.05852742875939,
+    "lng": 101.67316584501175
+   }
   },
   {
    "id": "30685-1",
@@ -9548,12 +9560,16 @@
      "soldPercent": 97.4
     }
    ],
-   "location": "",
+   "location": "Kampung Baru",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.166919131986427,
+    "lng": 101.71109132736535
+   }
   },
   {
    "id": "30633-1",
@@ -9836,12 +9852,16 @@
      "soldPercent": 99.5
     }
    ],
-   "location": "",
+   "location": "Setapak",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.2017732366900336,
+    "lng": 101.70341338955953
+   }
   },
   {
    "id": "30566-2",
@@ -10641,12 +10661,16 @@
      "soldPercent": 95.4
     }
    ],
-   "location": "",
+   "location": "Salak South",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0834638014305304,
+    "lng": 101.6980037780775
+   }
   },
   {
    "id": "30363-2",
@@ -11019,12 +11043,16 @@
      "soldPercent": 99.5
     }
    ],
-   "location": "",
+   "location": "Kuchai Lama",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0929135686651903,
+    "lng": 101.69019326114186
+   }
   },
   {
    "id": "30331-1",
@@ -11062,12 +11090,16 @@
      "soldPercent": 98.3
     }
    ],
-   "location": "",
+   "location": "Kuchai Lama",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.0933753403638957,
+    "lng": 101.68965676526113
+   }
   },
   {
    "id": "30311-1",
@@ -11191,12 +11223,16 @@
      "soldPercent": 97.8
     }
    ],
-   "location": "",
+   "location": "Mont Kiara",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.166000820344187,
+    "lng": 101.63947186441061
+   }
   },
   {
    "id": "30272-1",
@@ -11369,12 +11405,16 @@
      "soldPercent": 99.4
     }
    ],
-   "location": "",
+   "location": "Sri Petaling",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.074010248035651,
+    "lng": 101.70164698196602
+   }
   },
   {
    "id": "30250-1",
@@ -11669,12 +11709,16 @@
      "soldPercent": 99
     }
    ],
-   "location": "",
+   "location": "Mont Kiara",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1693098737173035,
+    "lng": 101.64405546567357
+   }
   },
   {
    "id": "30134-1",
@@ -11742,12 +11786,16 @@
      "soldPercent": 60
     }
    ],
-   "location": "",
+   "location": "Mont Kiara",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1696500867578368,
+    "lng": 101.6583099631923
+   }
   },
   {
    "id": "30079-1",
@@ -11785,12 +11833,16 @@
      "soldPercent": 97.8
     }
    ],
-   "location": "",
+   "location": "Mont Kiara",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.1734487231329727,
+    "lng": 101.64987989584773
+   }
   },
   {
    "id": "30037-1",
@@ -11905,12 +11957,16 @@
      "soldPercent": 98.2
     }
    ],
-   "location": "",
+   "location": "Sungai Besi",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.125500759776888,
+    "lng": 101.71197703286674
+   }
   },
   {
    "id": "30019-3",
@@ -12911,8 +12967,8 @@
    "region": "KL",
    "completionYear": "2028",
    "_coord": {
-    "lat": 3.1596371961399976,
-    "lng": 101.72208536928682
+    "lat": 3.159543757904515,
+    "lng": 101.72213253933575
    }
   },
   {
@@ -12966,12 +13022,16 @@
      "soldPercent": 98.1
     }
    ],
-   "location": "",
+   "location": "Jalan Ampang",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2029"
+   "completionYear": "2029",
+   "_coord": {
+    "lat": 3.159244176277235,
+    "lng": 101.72206220528068
+   }
   },
   {
    "id": "19472-1",
@@ -13355,12 +13415,16 @@
      "soldPercent": 97.7
     }
    ],
-   "location": "",
+   "location": "Kampung Baru",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.162942506024909,
+    "lng": 101.69921127282888
+   }
   },
   {
    "id": "13965-1",
@@ -13691,12 +13755,16 @@
      "soldPercent": 0
     }
    ],
-   "location": "",
+   "location": "Segambut",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": null
+   "completionYear": null,
+   "_coord": {
+    "lat": 3.1789110307186137,
+    "lng": 101.64832755529875
+   }
   },
   {
    "id": "11430-2",
@@ -13829,7 +13897,11 @@
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.232840167982183,
+    "lng": 101.66206764958086
+   }
   },
   {
    "id": "11202-4",
@@ -13882,12 +13954,16 @@
      "soldPercent": 95.8
     }
    ],
-   "location": "",
+   "location": "Selayang",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2028"
+   "completionYear": "2028",
+   "_coord": {
+    "lat": 3.232554046731605,
+    "lng": 101.6607160442354
+   }
   },
   {
    "id": "10596-1",
@@ -14835,12 +14911,16 @@
      "soldPercent": 97.9
     }
    ],
-   "location": "",
+   "location": "Desa Park City",
    "area": null,
    "isNew": false,
    "custom": {},
    "region": "KL",
-   "completionYear": "2027"
+   "completionYear": "2027",
+   "_coord": {
+    "lat": 3.182205078351141,
+    "lng": 101.63316016870006
+   }
   },
   {
    "id": "597-14",
